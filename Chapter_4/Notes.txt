@@ -1,0 +1,32 @@
+Arguments - what you pass into methods
+Parameters - local variables of methods (that receive the arguments)
+
+Java is pass-by-value (pass-by-copy)
+
+Accessors - Getters
+Mutators - Setters
+
+Not good to expose data, e.g. accessible with the dot operator
+
+Rule of thumb
+- mark instance variables private
+- provide public getters & setters
+
+Setter methods validate the parameter to either accept, reject, do nothing, or throw an exception.
+
+Setter methods apply Dependency Inversion & Open-Closed Principle, allowing code to change without affecting the other parts of the system. E.g., you only need to change what's inside of the setter method instead of having to add a setter method and chaning all affected code.
+
+Default values for instance variable primitives
+- integers 0
+- floating points 0.0
+- booleans false
+- references null
+
+Instance variables vs local variables
+- instance variables are declared inside a class but not inside a method
+- local variables are declared within a method & must be initialized before use. Methods parameters are still local variables but are never uninitialized so they are an exception. Invoking a method will require the arguments.
+
+== operator vs .equals() method
+- use == for comparing two primitives or if two references refer to the same object
+- use .equals() method to see if two different objects are equal, e.g. two different String objects
+

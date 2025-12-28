@@ -1,0 +1,12 @@
+On planning,
+
+Think high-level first, create a flowchart
+
+Think in terms of objects (UML Class diagram)
+- what is it supposed to do
+- list down instance variables and methods
+- write prep/pseudo code
+- write test code
+- implement class
+- test method
+- debug & reimplement

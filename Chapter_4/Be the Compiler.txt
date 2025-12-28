@@ -1,0 +1,7 @@
+A
+none
+
+B
+String getTime() {
+	return time;
+}

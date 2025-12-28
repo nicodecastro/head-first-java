@@ -1,0 +1,35 @@
+Across
+1. implement x
+4. for
+6. extreme x
+7. int
+10. return
+11. pseudocode
+13. cast x
+15. api x
+17. element
+18. variable
+20. java.lang x
+22. integer x
+25. boolean x
+26. random
+28. array x
+29. break
+
+Down
+2. pre x
+3. method
+5. operator
+6. expression x
+7. initialize
+8. loop
+9. set
+12. departure x decrement
+14. iteration x
+16. java.io x
+19. arg x
+21. virtual x
+23. post
+24. math
+26. run
+27. one

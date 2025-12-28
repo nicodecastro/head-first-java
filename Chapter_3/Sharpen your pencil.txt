@@ -1,0 +1,7 @@
+3. int g = 17;
+4. int y = g;
+5. y = y + 10;
+6. short s;
+8. byte b = 3;
+9. byte v = b;
+10. short n = 12;

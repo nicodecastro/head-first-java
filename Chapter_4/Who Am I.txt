@@ -1,0 +1,27 @@
+instance variable, method X getter, setter
+return, getter, setter X return only
+argument X return
+private X encapsulation
+pass by value /
+instance variable /
+argument /
+method X getter
+pass by value? X public
+method /
+setter /
+public, private X getter, setter
+setter X return
+
+
+instance variable, getter, setter, method
+return
+return, argument
+encapsulation
+pass by value
+instance variable
+argument
+getter
+public
+method
+setter
+return

@@ -1,0 +1,13 @@
+class /
+Object /
+Class /
+Method x object, method
+Class x class, object
+Object x instance variable
+Class x object, class
+Instance variable x method, instance variable
+Instance variable x object
+Class /
+Object x object, instance variable
+Class /
+Object x object, instance variable

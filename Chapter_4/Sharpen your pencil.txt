@@ -1,0 +1,5 @@
+int a = calcArea(7,12);
+short c = 7;
+calcArea(c, 15);
+
+calcArea(2,3);
