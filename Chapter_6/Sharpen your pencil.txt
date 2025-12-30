@@ -1,0 +1,9 @@
+myList[0] = a;
+
+myList[1] = b;
+
+int theSize = sizeof(myList)/sizeof(String[]) x int theSize = myList.length;
+
+String str = myList[1];
+
+myList[1] = null;

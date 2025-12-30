@@ -8,7 +8,7 @@ public class SimpleStartup {
 		for (int loc: locs) {
 			locationCells.add(loc);
 		}
-		printLocationCells();
+		// printLocationCells();
 	}
 
 	public String checkYourself(int guess) {
