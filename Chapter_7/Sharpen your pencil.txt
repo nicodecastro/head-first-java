@@ -1,0 +1,20 @@
+1
+2
+1
+2
+2
+yes
+no
+
+Class							Superclasses		Subclasses
+Musician					---							Rock Star, Bass Player, Concert Pianist
+Rock Star					Musician				---
+Fan								---							---
+Bass Player				Musician				---
+Concert Pianist		Musician				---
+
+Guitar extends Instrument
+Person extends Employee
+FriedEgg etends Food
+Beagle extends Pet
+GratefulDead extends Band

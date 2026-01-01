@@ -3,8 +3,8 @@ JVM = java
 
 JFLAGS = -d ./$(DIRECTORY)
 
-DIRECTORY ?= Chapter_6
-MAIN ?= ArrayListMagnet
+DIRECTORY ?= Chapter_7
+MAIN ?= TestBoats
 
 SOURCES = $(wildcard $(DIRECTORY)/*.java)
 CLASSES = $(SOURCES:.java=.class)
