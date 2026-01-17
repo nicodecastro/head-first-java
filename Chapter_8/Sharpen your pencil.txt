@@ -1,0 +1,14 @@
+Concrete										Sample Class		Abstract
+golf course simulation			Tree						tree nursery application
+sims												House						architect application
+satellite photo application	Town						map application
+football videogame					Football Player	coaching application
+sims												Chair						furniture inventory system
+pos system									Customer				order tracking system
+pos system									Sales Order			inventory system
+library management system		Book						ebook reader
+supermarket simulator				Store  					franchise tracking system
+inventory tracking system		Supplier				supermarket simulator
+simple golf game						Golf Club				golfing simulation
+car mechanic simulator			Carburetor			mechanic simulator
+cooking game								Oven						?
