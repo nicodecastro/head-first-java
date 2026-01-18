@@ -1,0 +1,6 @@
+2 gc2 = null;
+4 gc1 = null; x (missing)
+6 gc4 = null; x
+7 gc3 = gc2; x
+8 gc1 = gc4; x (missing)
+9 gc3 = null; x
